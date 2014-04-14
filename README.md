@@ -1,3 +1,7 @@
+WDI Week3-Day1
+================
+Cloned from https://github.com/wdi-sf-jan-2014/sinatra-sql-store
+
 # Managing Products with Sinatra and SQL
 
 Your company has a working interface written with Sinatra and SQL to manage a list of products in your store.  The manager can add products, edit them, remove them, and view them.
